@@ -1,4 +1,4 @@
-# Textile Scrap Reuse Advisor
+# ReWeave AI
 
 A circular recovery decision-support prototype for small garment workshops, tailoring units, and boutiques.
 
